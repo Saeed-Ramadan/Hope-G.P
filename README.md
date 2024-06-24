@@ -1,8 +1,94 @@
-# React + Vite
+## Social Service Website for Missing Persons and Things using AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+As the project leader and Front End Developer for my graduation project, I led the development of a social service website with the following key features:
 
-Currently, two official plugins are available:
+### Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Register with Email Verification:** Ensure secure registration with email verification.
+
+- **Login with Password Recovery:** Convenient login with password recovery options.
+
+- **Home Page Contains:**
+  - Navbar.
+  - Hero section.
+  - Search bar for searching for users.
+  - A navigation bar to move between the posts classified as follows:
+    - All posts
+    - Accidents
+    - Missing persons
+    - Shelters
+    - Things
+  - Create post button.
+
+- **Post Creation Page Divided As Follows:**
+  - Create post for people.
+  - Create post for things.
+
+- **Posts:**
+  - Post body appears on the home page.
+  - Post details when clicked on the post body.
+  - Can share a post.
+  - Comment on a post.
+  - Can reply to the comment.
+  - Can delete the comment.
+  - Can edit the comment.
+  - Can delete the reply.
+  - Can edit the reply.
+  - Can hide/unhide the post.
+  - Can pin/unpin the post.
+  - Can delete the post if you created it, and the admin can delete any post too.
+
+- **Archive Page Contains:**
+  - The hidden posts.
+  - The deleted messages.
+
+- **Other Users' Profile Page Contains:**
+  - User data.
+  - All posts that this user created.
+
+- **My Profile Page Contains:**
+  - My data.
+  - Can edit my data.
+  - Can logout.
+  - All posts that I created.
+  - Edit the post data.
+  - Delete the post.
+  - My pinned posts and can unpin them.
+  - My hidden posts and can unhide them.
+  - Realtime chat.
+
+- **Chatbot Contains:**
+  - Create a post faster than the traditional way.
+  - Search for a lost person quickly and get recommended places for search.
+  - Search for a lost person inside the nearest hospital to their location.
+  - Give advice to users and calm them down.
+
+- **Notification System Contains:**
+  - Notice when creating a post near me through a recommendation system and face recognition.
+  - Notice when you make a comment or reply to a comment.
+  - Notification when receiving a message from a user.
+  - Notification of the two new updates on the site.
+
+- **Dashboard Contains:**
+  - Statistics about posts.
+  - Statistics about users.
+  - General statistics at the website.
+  - All users' accounts (can delete any user and can set any user as an admin).
+  - All admins (can delete any admin).
+  - Can create a new admin account.
+  - Notes to admin.
+  - Reports for admins.
+
+### Screenshots
+Here are some screenshots of the project:
+
+![Home Page](https://drive.google.com/file/d/1UY8V3VZuTFoi8cRjlQ_5jXBan1LKQXWC/view?usp=drive_link)
+![Post Creation](https://drive.google.com/file/d/18jLv988tTdhxfHOEwvtXwRCPKIIhGmBL/view?usp=drive_link)
+![User Profile](https://drive.google.com/file/d/1esQDefVE71eLgy_UPJBUeffNgIhymHSr/view?usp=drive_link)
+![Admin Dashboard](https://drive.google.com/file/d/1VzWAXoP9UcqVf-3DrDtanpSB8aU9H4Xk/view?usp=drive_link)
+
+### Live Demo
+Check out the live demo of the website [here](https://hope-social.vercel.app/).
+
+### Video Demonstration
+Watch a video demonstration of the project [here](https://drive.google.com/file/d/1jo0bdr7yhdrUOBagcgJFj-CzgPOa82hu/view?usp=drive_link).
