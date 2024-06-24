@@ -1,0 +1,55 @@
+@font-face {
+  font-family: defaultFont;
+  src: url(./assets/fonts/Noto_Kufi_Arabic/NotoKufiArabic-VariableFont_wght.ttf);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box !important;
+  font-family: defaultFont !important;
+}
+a {
+  text-decoration: none !important;
+}
+body {
+  background-color: #ffffff;
+}
+.bullet-point::before {
+  content: "•"; /* Add a bullet point */
+  margin-right: 5px; /* Add some space between the bullet point and the text */
+  color: "#FFB86D";
+}
+
+.lincanvs canvas {
+  width: 55% !important;
+  height: 50% !important;
+  margin: 0 auto;
+}
+
+/* notification card style */
+.card-image {
+  transition: opacity 0.3s; /* إضافة تحويل للتأثير عند التحويم */
+}
+
+.card-info {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* لتظل الخلفية شفافة */
+  opacity: 0; /* لإخفاء المعلومات في البداية */
+  color: #fff; /* لتغيير لون النص */
+  transition: opacity 0.3s; /* إضافة تحويل للتأثير عند التحويم */
+  padding: 20px;
+}
+
+.card-info:hover {
+  opacity: 1; /* إظهار المعلومات عند التحويم */
+}
+
+
+.css-tlelie-MuiListItemText-root span{
+ font-size: 12px;
+}
