@@ -82,13 +82,17 @@ As the project leader and Front End Developer for my graduation project, I led t
 ### Screenshots
 Here are some screenshots of the project:
 
-![Home Page](https://drive.google.com/file/d/1UY8V3VZuTFoi8cRjlQ_5jXBan1LKQXWC/view?usp=drive_link)
-![Post Creation](https://drive.google.com/file/d/18jLv988tTdhxfHOEwvtXwRCPKIIhGmBL/view?usp=drive_link)
-![User Profile](https://drive.google.com/file/d/1esQDefVE71eLgy_UPJBUeffNgIhymHSr/view?usp=drive_link)
-![Admin Dashboard](https://drive.google.com/file/d/1VzWAXoP9UcqVf-3DrDtanpSB8aU9H4Xk/view?usp=drive_link)
+![Login](login.png)
+![Register](register.png)
+![Home Page](homepage.png)
+![Post Creation](createpost.png)
+![User Own Profile](ownpro1.png)
+![User Others Profile](anotherprofiledata.png)
+![Admin Dashboard](dashgeneral.png)
+![Archive](archive.png)
 
 ### Live Demo
 Check out the live demo of the website [here](https://hope-social.vercel.app/).
 
 ### Video Demonstration
-Watch a video demonstration of the project [here](https://drive.google.com/file/d/1jo0bdr7yhdrUOBagcgJFj-CzgPOa82hu/view?usp=drive_link).
+Watch a video demonstration of the project [here](https://www.linkedin.com/posts/saeed-ramadan-686186201_hope-graduationproject-socialservice-activity-7210713850185216000-5C8H?utm_source=share&utm_medium=member_desktop).
